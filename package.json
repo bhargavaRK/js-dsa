@@ -1,0 +1,13 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "JavaScript Datastructures And Algorithms",
+  "main": "index.ts",
+  "repository": "https://github.com/bhargavaRK/js-dsa",
+  "author": "bhargavaRK <kbhargava.it@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
